@@ -1,2 +1,1 @@
-# Prepcurse-henrye
-Este es un repositorio del modulo2 del prepcurse de henrye
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
